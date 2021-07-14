@@ -33,7 +33,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.https://www.linkedin.com/in/antonis-angelis-5316331b4//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Antonis%20Angelis-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.https://www.linkedin.com/in/antonis-angelis-5316331b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Antonis%20Angelis-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adonis.agelis-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-agelisadonis@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
