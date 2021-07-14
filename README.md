@@ -28,7 +28,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans-ide&logoColor=2C2255)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
