@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and trying to become a more skilled and flexible developer every day.
-- 🎓 &nbsp; Studying Informatics and Telecommunications at the University of Peloponnese in Greece.
+- 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Searching for a Web Developer job in a friendly and challenging environment.
 - 🌱 &nbsp; Learning more about Network Programming, Web Design and Database Design.
 
