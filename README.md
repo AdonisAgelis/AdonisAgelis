@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and trying to become a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Searching for a Web Developer job in a friendly and challenging environment.
-- 🌱 &nbsp; Learning more about Network Programming, Web Design and Database Design.
+- 🌱 &nbsp; Learning more about GraphQL and Database Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
