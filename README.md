@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Adonis.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Myself </h3>
 
 - 🤔 &nbsp; Exploring new technologies and trying to become a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
