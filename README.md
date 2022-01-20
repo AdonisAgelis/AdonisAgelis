@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and trying to become a more skilled and flexible developer every day.
+- 🤔 &nbsp; Striving to be a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Junior Front-end Engineer at Vodafone Greece.
 - 🌱 &nbsp; Learning more about GraphQL and Next.js.
