@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and trying to become a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
-- 💼 &nbsp; Searching for a Web Developer job in a friendly and challenging environment.
+- 💼 &nbsp; Junior Front-end Engineer at Vodafone Greece.
 - 🌱 &nbsp; Learning more about GraphQL and Next.js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,6 +34,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/antonisangelis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Antonis%20Angelis-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adonis.agelis/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adonis.agelis-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:agelisadonis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-agelisadonis@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
