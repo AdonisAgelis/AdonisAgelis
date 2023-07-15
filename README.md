@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 - 🛢 &nbsp;
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
