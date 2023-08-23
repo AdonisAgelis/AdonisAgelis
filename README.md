@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Striving to be a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Frontend Developer at Vodafone Greece.
-- 🌱 &nbsp; Learning more about Next.js and GraphQL.
+- 🌱 &nbsp; Learning more about Next.js 13 and Tailwind CSS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -26,6 +26,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
