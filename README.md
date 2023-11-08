@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Striving to be a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Frontend Developer at Vodafone Greece.
-- 🌱 &nbsp; Learning more about Next.js 13 and Tailwind CSS.
+- 🌱 &nbsp; Learning more about Next.js 14 and Tailwind CSS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
