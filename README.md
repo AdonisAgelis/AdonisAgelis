@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
-- 💼 &nbsp; Frontend Developer at Vodafone Greece.
+- 💼 &nbsp; Currently working as a Frontend Developer at Vodafone Greece.
 - 🌱 &nbsp; Everyday I'm trying to learn something new about the Web 🕸️.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
