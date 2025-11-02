@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Striving to be a more skilled and flexible developer every day.
 - 🎓 &nbsp; BS in Informatics and Telecommunications at the University of Peloponnese in Greece.
 - 💼 &nbsp; Frontend Developer at Vodafone Greece.
 - 🌱 &nbsp; Everyday I'm trying to learn something new about the Web 🕸️.
