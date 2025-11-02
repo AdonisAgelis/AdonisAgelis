@@ -16,6 +16,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 - 🌐 &nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
